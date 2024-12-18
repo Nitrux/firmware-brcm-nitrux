@@ -1,0 +1,14 @@
+Source: firmware-brcm-nitrux
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/Nitrux/firmware-brcm-nitrux
+
+
+Package: firmware-brcm-nitrux
+Architecture: amd64
+Conflicts: firmware-brcm80211
+Description: Firmware files for Broadcom devices.
+ This package includes firmware files for multiple Broadcom wireless cards.
