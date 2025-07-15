@@ -1,3 +1,9 @@
+firmware-brcm-nitrux (0.0.1-1)  nitrux; urgency=medium
+
+  * Rebuild package.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Mon, 14 Jul 2024 23:56:00 -0500
+
 firmware-brcm-nitrux (0.0.1)  nitrux; urgency=medium
 
   * Create package.
